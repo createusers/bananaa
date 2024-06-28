@@ -9,7 +9,7 @@ DLink.addEventListener("click", () => {
   hiddenArea.style.opacity = "1";
   hiddenArea.style.zIndex = "1";
   setTimeout(() => {
-    hiddenArea.querySelector("img").style.transform = "scale(1)";
+    hiddenArea.querySelector("video").style.transform = "scale(1)";
     setTimeout(() => {
       hiddenArea.querySelector("p").style.opacity = "1";
     }, 500);

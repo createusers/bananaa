@@ -39,7 +39,7 @@
   transform: translateY(-10vh);
 }
 
-.area .hidden-area img {
+.area .hidden-area video {
   height: 60vh;
   padding-bottom: 2rem;
   transform: scale(0);

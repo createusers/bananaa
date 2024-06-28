@@ -8,9 +8,14 @@
   overflow: auto;
 }
 .b .content h4 {
-  text-align: end;
+  text-align: start;
   margin-top: 1rem;
 }
+
+.b .content p {
+  margin-top: 1rem;
+}
+
 @media screen and (max-width: 550px) {
   .b .content {
     width: 85vw;
